@@ -1,0 +1,18 @@
+@charset "utf-8";
+body h1 {
+    color: #FF9900;
+    font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+    font-size: 40px;
+}
+.key {
+    color: #FFFFFF;
+    background-color: #0000FF;
+    font-size: x-large;
+}
+body p img {
+    border: 8px dotted #00FF00;
+}
+body {
+    background-image: url(yumekawab01_.jpg);
+    background-position: 90% 20%;
+}
